@@ -1,7 +1,17 @@
-# Boostrap Portfolio 
+# My Portfolio 
+This is my current portfolio that shows my work in web development in the past few weeks. It consists of my most updated resume, a project, and assignments that proves my skills. 
 
-This is the second homework assignment for the UPenn PLS Coding Bootcamp. This assignment required to create three .html files: index, portfolio, and contact. Each file has css bootstrap link to apply the navbar, responsive images, and grid system. These together created a portfolio that is responsive to different screen sizes. 
+# Link 
+https://ydeek91.github.io/
 
-Here in this repository you will find the portfolio that demonstrates the use of responsiveness. 
+# Technology Used: 
+- HTML 
+- CSS 
+- Bootstrap 
 
-Note: in the contact.html file, an open source code was used to creat the contact form: https://mdbootstrap.com/docs/jquery/forms/contact/. 
+# Contact Information: 
+Email: yazan.deek8@gmail.com
+Phone: (267)-251-7307
+
+
+
