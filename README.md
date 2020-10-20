@@ -11,9 +11,9 @@ https://ydeek91.github.io/
 
 
 
-<img src="portOne.png" alt="">
-<img src="portTwo.png" alt="">
-<img src="portThree.png" alt="">
+<img src="images/portOne.png" alt="">
+<img src="images/portTwo.png" alt="">
+<img src="images/portThree.png" alt="">
 
 
 # Contact Information: 
